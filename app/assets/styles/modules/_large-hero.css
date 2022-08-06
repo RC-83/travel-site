@@ -1,0 +1,23 @@
+.large-hero{
+    color: purple;
+    position: relative;
+}
+
+.large-hero__text-content{
+    
+    position: absolute;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    
+    top: 0;
+    top: 50%;
+    transform: translateY(-50%);
+
+    
+    
+    
+    
+
+
+}
